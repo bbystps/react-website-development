@@ -6,7 +6,7 @@ function Navbar() {
       <div className="container nav-content">
         <a href="#" className="brand">
           <img src={logo} alt="Logo" className="brand-logo" />
-          <span>Jefrey Bonyad</span>
+          <span>Website Development</span>
         </a>
 
         <nav className="nav-links">

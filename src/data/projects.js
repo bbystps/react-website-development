@@ -6,6 +6,7 @@ export const projects = [
   {
     title: "Corporate Company Website",
     category: "Business Website",
+    icon: "business",
     description:
       "A company profile website with clean sections for services, projects, and contact.",
     image: companyImg,
@@ -13,6 +14,7 @@ export const projects = [
   {
     title: "Service Landing Page",
     category: "Landing Page",
+    icon: "landing",
     description:
       "A focused landing page designed to clearly present one service and encourage inquiries.",
     image: landingImg,
@@ -20,6 +22,7 @@ export const projects = [
   {
     title: "Admin Dashboard Interface",
     category: "Dashboard UI",
+    icon: "dashboard",
     description:
       "A responsive dashboard concept for managing data, users, and business activity.",
     image: dashboardImg,
